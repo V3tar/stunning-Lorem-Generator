@@ -1,0 +1,5 @@
+.para-result p {
+    display: block;
+    border: 2px black solid;
+    margin: 10px 0px;
+}
